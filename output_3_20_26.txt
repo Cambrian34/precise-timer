@@ -1,0 +1,12 @@
+Frequency : 10,000,000 Hz  |  Resolution: 0.1000 us
+
+sample  1  elapsed:     536.10 us  delta:   207.30 us
+sample  2  elapsed:     915.10 us  delta:   381.00 us
+sample  3  elapsed:    1275.20 us  delta:   361.20 us
+sample  4  elapsed:    1627.90 us  delta:   351.80 us
+sample  5  elapsed:    1974.40 us  delta:   346.00 us
+sample  6  elapsed:    2291.30 us  delta:   317.60 us
+sample  7  elapsed:    2603.80 us  delta:   313.20 us
+sample  8  elapsed:    2931.50 us  delta:   327.80 us
+sample  9  elapsed:    3256.50 us  delta:   324.80 us
+sample 10  elapsed:    3585.50 us  delta:   327.40 us

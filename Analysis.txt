@@ -1,0 +1,2 @@
+On average(20 runs) the code showed a variable output with values ranging from ~205 microseconds to ~500 microseconds.
+The original code provided by claude had a 15 ms benchmark due to how the python file specifficsally time.sleep delegating to the OS scheduler
