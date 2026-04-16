@@ -1,0 +1,83 @@
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,844
+Converted Time:     12.5352 ms (12535.17 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     301,200
+Converted Time:     12.5500 ms (12550.00 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,519
+Converted Time:     12.5216 ms (12521.62 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,696
+Converted Time:     12.5290 ms (12529.00 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,518
+Converted Time:     12.5216 ms (12521.58 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     274,188
+Converted Time:     11.4245 ms (11424.50 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,728
+Converted Time:     12.5303 ms (12530.33 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     301,220
+Converted Time:     12.5508 ms (12550.83 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,477
+Converted Time:     12.5199 ms (12519.88 µs)
+--------------------------------------------------
+((.venv) ) alistairchambers@MacBookAir hsieh_lab % /Users/alistairchambers/Downloads/hsieh_lab/.venv/bin/python /Users/alistairchambers/Download
+s/hsieh_lab/precise_timer.py
+Benchmarking mach_absolute_time() resolution...
+--------------------------------------------------
+Target Delay:       10.00 ms
+Raw Mach Ticks:     300,571
+Converted Time:     12.5238 ms (12523.79 µs)
+--------------------------------------------------
+
+
+Average Converted Time:
