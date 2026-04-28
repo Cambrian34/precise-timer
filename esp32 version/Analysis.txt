@@ -1,0 +1,8 @@
+Because I did not have a microcontroller with native wired USB HID support on hand, 
+I prototyped the setup using an ESP32 over a Bluetooth Low Energy (BLE) connection. 
+This test successfully isolated the transport layer. The ESP32’s internal hardware 
+timer executed flawlessly with zero long-term drift, proving the microcontroller 
+timing logic is perfectly sound. However, the BLE protocol introduced a strict 
+15-millisecond polling bottleneck, which completely eclipsed the sub-millisecond 
+precision achieved on the PC side. To bypass this wireless latency, the next step 
+is to source a microcontroller capable of direct, wired USB HID events.
