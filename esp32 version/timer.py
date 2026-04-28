@@ -21,7 +21,7 @@ except OSError as e:
     print(f"Error: {e}", flush=True)
     sys.exit(1)
 
-# --- 2. DEFINE C-TYPES ---
+# --- 2. DEFINE C-TYPES 
 timer_lib.timer_init.restype = ctypes.c_int
 timer_lib.timer_ticks.restype = ctypes.c_longlong
 timer_lib.timer_delta_us.argtypes = [ctypes.c_longlong, ctypes.c_longlong]
@@ -31,7 +31,7 @@ if not timer_lib.timer_init():
     print("Warning: High-resolution hardware timer failed to initialize.", flush=True)
     sys.exit(1)
 
-# --- 3. HARDWARE EVENT LISTENER ---
+# --- 3. HARDWARE EVENT LISTENER 
 click_times = []
 output_lines = []
 

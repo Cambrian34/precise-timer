@@ -9,7 +9,6 @@ const unsigned long interval = 1000000; // 1`,000,000 us = 1000 ms
 void setup() {
   Serial.begin(115200);
   bleMouse.begin();
-  // We can`'t click immediately; delay for setup
   delay(2000); 
   previousMicros = micros();
   Serial.println("Setup complete! Waiting for Bluetooth connection...");
