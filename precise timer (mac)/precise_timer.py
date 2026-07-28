@@ -4,7 +4,6 @@ import os
 import time
 
 # --- 1. LOAD THE MAC C-LIBRARY ---
-# This assumes you have already compiled precise_timer_mac.c into precise_timer.dylib
 lib_filename = "precise_timer.dylib"
 lib_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), lib_filename)
 
@@ -29,7 +28,7 @@ if not timer_lib.timer_init():
 print("Benchmarking mach_absolute_time() resolution...")
 print("-" * 50)
 
-# We will measure a synthetic delay of 10 milliseconds
+# A synthetic delay of 10 milliseconds
 target_sleep_s = 0.010 
 
 # Capture starting raw Mach ticks
